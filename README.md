@@ -1,1 +1,2 @@
-# Snow-Land
+# collisionAlgorithm
+Algorithm to detect collision between two objects
